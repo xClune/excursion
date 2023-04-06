@@ -2,7 +2,7 @@ html {
     background-color: black;
 }
 
-header {
+body {
     text-align: center;
 }
 
@@ -17,4 +17,21 @@ header {
     color: aquamarine;
     text-decoration: underline;
     font-size: 16px;
+}
+
+#video-block {
+    align-items: center;
+}
+
+.header--secondary {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.header--sub-heading {
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
 }
