@@ -1,0 +1,20 @@
+html {
+    background-color: black;
+}
+
+header {
+    text-align: center;
+}
+
+.header {
+    color: white;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+.link {
+    color: aquamarine;
+    text-decoration: underline;
+    font-size: 16px;
+}
